@@ -52,7 +52,7 @@ Vytvořte agregovanou tabulku '1 agregovana data'
 	tj. pokud máme poslední data k 28.11.2020, tak pro každý rok na řádku vizuálu hledáme sumu srážek od 1.1. daného roku do 28.11. daného roku.
 	Je tedy třeba spočítat: 
 8.3.3.1. Maximální datum
-8.3.3.2. Rok maximálního datumu
+8.3.3.2. Den a měsíc maximálního datumu
 8.3.3.3. Rok na řádku vizuálu
 8.3.3.4. Ekvivalent datumu pro daný rok, viz bod 8.3.3.
 8.3.3.5. Sumu srážek za období od 1.1. daného roku po datum spočítané v bodu 8.3.3.4.
