@@ -91,7 +91,7 @@ Vytvořte agregovanou tabulku '1 agregovana data'
 10.4. Vytvořte kombinovaný graf a dosaďte / dopočítejte
 10.4.1. 'Dim Datumy'[Měsíc]
 10.4.2. 'data'[PRCP]
-10.3.3. Kalkulovanou míru "07 srazky prumer za zemi lokality dle mesice" = Průměr srážek za daný měsíc napříč všemi lokalitami v rámci země lokality,
+10.4.3. Kalkulovanou míru "07 srazky prumer za zemi lokality dle mesice" = Průměr srážek za daný měsíc napříč všemi lokalitami v rámci země lokality,
 	kterou si uživatel zvolil v průřezu 10.1. Tj. pokud si uživatel zvolil "TURANY", počítáme průměr za zemi "Cesko"
 
 BONUS CVIČENÍ 2:
