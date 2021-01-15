@@ -127,10 +127,10 @@ BONUS CVIČENÍ 2:
 13.2.3. 'data'[TMIN] (minimum)
 
 
-13.3. Kalkulovanou míru "10 titulek grafu teploty", kterou použijeme nad grafem z bodu 13.2.
-13.3.1. Pokud si uživatel zvolil v tabulce 13.1. jedinou hodnotu, vracíme text: "Vyvoj teplot lokalite " a název lokality zjištění pomocí funkcí DISTINCT()
-13.3.2. Pokud si uživatel zvolil v tabulce 13.1. více hodnot, vracíme text: "Vyvoj teplot v lokalitach " a výpis lokalit za pomocí funkcí CONCATENATEX() a DISTINCT()
-13.3.3. Pokud neplatí 12.1.1. ani 12.1.2., vracíme text:  "Vyvoj teplot napric lokalitami"
+13.2.4 Kalkulovanou míru "10 titulek grafu teploty", kterou použijeme nad grafem z bodu 13.2.
+13.2.4.1 Pokud si uživatel zvolil v tabulce 13.1. jedinou hodnotu, vracíme text: "Vyvoj teplot lokalite " a název lokality zjištění pomocí funkcí DISTINCT()
+13.2.4.2 Pokud si uživatel zvolil v tabulce 13.1. více hodnot, vracíme text: "Vyvoj teplot v lokalitach " a výpis lokalit za pomocí funkcí CONCATENATEX() a DISTINCT()
+13.2.4.3 Pokud neplatí 12.1.1. ani 12.1.2., vracíme text:  "Vyvoj teplot napric lokalitami"
 
 13.3. Kartu s textem (texty z jednotlivých podbodů budou součásti jedné věty)
 13.3.1.
