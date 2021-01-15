@@ -77,17 +77,18 @@ Vytvořte agregovanou tabulku '1 agregovana data'
 
 10. Vytvořte stránku "srazky porovnani"
 10.1. Vytvořte vizuál typu "průřez" a do něj dosaďte 'Dim Lokality'[Lokalita] - omezte možnosti na jediný výběr
-10.2. Vytvořte sloupcový graf a dosaďte / dopočítejte
+1
+0.2. Vytvořte kombinovaný graf a dosaďte / dopočítejte
 10.2.1. 'Dim Datumy'[Měsíc]
 10.2.2.	'data'[PRCP]
 10.2.3. Kalkulovanou míru "05 srazky prumer za lokalitu" = Průměr srážek za všechny měsíce všech let pro danou lokalitu
 
-10.3. Vytvořte sloupcový graf a dosaďte / dopočítejte
+10.3. Vytvořte kombinovaný graf a dosaďte / dopočítejte
 10.3.1. 'Dim Datumy'[Měsíc]
 10.3.2. 'data'[PRCP]
 10.3.3. Kalkulovanou míru "06 srazky prumer za mesic ve vsech lokalitach" = Průměr srážek za daný měsíc napříč všemi lokalitami (tj. ignorujeme filtr vizuálu 10.1.)
 
-10.4. Vytvořte sloupcový graf a dosaďte / dopočítejte
+10.4. Vytvořte kombinovaný graf a dosaďte / dopočítejte
 10.4.1. 'Dim Datumy'[Měsíc]
 10.4.2. 'data'[PRCP]
 10.3.3. Kalkulovanou míru "07 srazky prumer za zemi lokality dle mesice" = Průměr srážek za daný měsíc napříč všemi lokalitami v rámci země lokality,
