@@ -104,6 +104,7 @@ BONUS CVIČENÍ 2:
 11.3.2. Rok z parametru vytvořeného v bodu 9.1. 
 11.3.3. Sumu 'data'[PRCP] kumulativně k danému měsíci (včetně), pro daný rok	
 11.2. Kartu s textem:
+	Kalkulovaná míra "09 kontrola filtru lokality":
 	Pokud uživatel filtroval v tabulce 9.3. hodnotu, text: "Je filtrovan sloupec [Lokalita], jsou zobrazena filtrovana data",
 	Pokud uživatel nefiltrova v tabulce 9.3. hodnotu, text: "Porovnani kumulativnich srazek k vybranemu mesici a roku pro vsechny lokality"
 
