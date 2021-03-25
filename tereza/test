@@ -1,0 +1,22 @@
+agregovana data = 
+
+ADDCOLUMNS(
+    SUMMARIZE(
+        data,
+        data[NAME],
+        "Max. teplota",
+        MAX(data[TMAX]),
+        "Min. teplota",
+        MIN(data[TMIN]),
+        "Srazky",
+        SUM(data[PRCP]) 
+        ),
+    "Nejteplejsi lokalita",
+    IF(
+        [Max. teplota] = MAX(data[TMAX]),TRUE(),FALSE()
+      
+    )
+)
+
+
+    
