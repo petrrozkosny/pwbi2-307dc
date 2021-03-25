@@ -7,7 +7,7 @@ Vytvořte agregovanou tabulku '1 agregovana data'
 1.2.1 "Max. teplota" = Maximální hodnota ze sloupce 'data'[TMAX]
 1.2.2 "Min. teplota" = Minimální hodnota ze sloupce 'data'[TMIN]
 1.2.3 "Srazky" = Suma hodnot ze sloupce 'data'[PRCP]
-1.2.4. "Pocet tropickych dnu" = Počet hodnot ve sloupci 'data'[DATE], pro které platí, že hodnota v 'data'[TMAX] >=30
+1.2.4. "Pocet tropickych dnu" = Počet hodnot ve sloupci 'data'[DATE], pro které platí, že hodnota v 'data'[TMAX] >=30 (TOTO ZATÍM NEPOČÍTAT)
 
 2. Do sumarizované tabulky '1. agregovana data' přidejte funkčí ADDCOLUMNS() nový sloupec "Nejteplejsi lokalita", který:
 - bude obsahovat hodnotu true, pokud hodnota ve sloupci "Max. teplota" odpovídá nejvyšší hodnotě (je třeba se doptat na maximum z 'data'[TMAX])
