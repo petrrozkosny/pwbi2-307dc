@@ -48,7 +48,7 @@ Vytvořte agregovanou tabulku '1 agregovana data'
 8.3. Dopočítejte kalkulované míry a ty dosaďte do sloupců této tabulky (8.2.)
 8.3.1. "01 srazky minuly rok" = Suma sloupce 'data'[PRCP] pro 'Dim Datumy'[Rok], který předcházel hodnotě na řádku vizuálu
 8.3.2. "02 srazky mezirocne" = Rozdíl mezi sumou 'data'[PRPC] a sumou 'data'[PRPC] z předcházejícího roku 
-8.3.3. "srazky za srovnatelne obdobi" = Suma srážek za období, které je ekvivalentem období v aktuálním roce, 
+8.3.3. (DOPLNIT ČÍSLO MÍRY )"srazky za srovnatelne obdobi" = Suma srážek za období, které je ekvivalentem období v aktuálním roce, 
 	tj. pokud máme poslední data k 28.11.2020, tak pro každý rok na řádku vizuálu hledáme sumu srážek od 1.1. daného roku do 28.11. daného roku.
 	Je tedy třeba spočítat: 
 8.3.3.1. Maximální datum
